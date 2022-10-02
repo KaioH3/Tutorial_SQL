@@ -1,7 +1,10 @@
 # Tutorial de SQL e sobre a biblioteca sqlite3 do python
 Um pequeno tutorial utilizando a biblioteca "sqlite3" built-in do python e transformando dados do tipo CSV para adicionar a um banco de dados.  
 
-Para você transformar algum arquivo do tipo CSV(Comma Separated Values) você irá acessar este site:  
+Aqui escolho um arquivo do tipo CSV(Comma Separated Values) retirado do repositório da Fundação Seade:  
+https://github.com/seade-R/dados-covid-sp/blob/master/data/casos_obitos_doencas_preexistentes.csv.zip  
+
+Para você transformar algum arquivo do tipo CSV você irá acessar este site:  
 https://www.convertcsv.com/csv-to-sql.htm  
 
 Se seu arquivo ter um tamanho na escala de gigabytes ou até se for maior que 500 megabytes, possivelmente o site não irá funcionar adequadamente. Então se você quiser só algumas linhas desse arquivo, é só copiar algumas linhas e colar no site!  
